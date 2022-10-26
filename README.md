@@ -6,4 +6,8 @@ Para poder correr correctamente la app primero se debe instalar en la consola de
 2) npm install --save @ionic/storage-angular
 3) npm install --save toast-controller
 
+<<<<<<< HEAD
 luego se podrá inicializar la app sin problemas
+=======
+luego se podrá inicializar la app sin problemas
+>>>>>>> 7695ccd7f5ac4510394c5168ec5b34f73f207914
